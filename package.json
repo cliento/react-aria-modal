@@ -33,7 +33,7 @@
   "dependencies": {
     "focus-trap-react": "8.5.1",
     "no-scroll": "^2.1.1",
-    "react-displace": "git+https://github.com/cliento/react-displace.git#master"
+    "react-displace": "cliento/react-displace.git#master"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
