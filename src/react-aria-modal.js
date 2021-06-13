@@ -1,7 +1,7 @@
 const React = require('react');
 const FocusTrap = require('focus-trap-react');
-const displace = require('react-displace');
 const noScroll = require('no-scroll');
+const displace = require('./displace');
 
 class Modal extends React.Component {
   static defaultProps = {

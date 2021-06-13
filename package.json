@@ -32,23 +32,23 @@
   "homepage": "https://github.com/davidtheclark/react-aria-modal#readme",
   "dependencies": {
     "focus-trap-react": "8.5.1",
-    "no-scroll": "^2.1.1",
-    "react-displace": "cliento/react-displace.git#master"
+    "no-scroll": "^2.1.1"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.3.3",
-    "@babel/plugin-proposal-class-properties": "^7.3.3",
-    "@babel/preset-env": "^7.3.1",
-    "@babel/preset-react": "^7.0.0",
-    "babel-eslint": "^10.0.1",
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.5",
+    "@babel/eslint-parser": "^7.14.5",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "babelify": "^10.0.0",
-    "browserify": "^16.2.3",
-    "budo": "^11.6.0",
-    "eslint": "^5.14.0",
+    "browserify": "^17.0.0",
+    "budo": "^11.6.4",
+    "eslint": "^7.28.0",
     "prettier": "1.16.4",
     "prop-types": "15.7.2",
     "react": "^16.8.2",
