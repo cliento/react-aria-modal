@@ -76,8 +76,8 @@ var Modal = /*#__PURE__*/function (_React$Component) {
   }
 
   _createClass(Modal, [{
-    key: "componentWillMount",
-    value: function componentWillMount() {
+    key: "UNSAFE_componentWillMount",
+    value: function UNSAFE_componentWillMount() {
       if (!this.props.titleText && !this.props.titleId) {
         throw new Error('react-aria-modal instances should have a `titleText` or `titleId`');
       }
