@@ -12,24 +12,8 @@
     "prepublish": "npm run build",
     "test": "npm run lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/davidtheclark/react-aria-modal.git"
-  },
-  "keywords": [
-    "react",
-    "react-component",
-    "modal",
-    "accessibility",
-    "accessible",
-    "dialog"
-  ],
   "author": "David Clark",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/davidtheclark/react-aria-modal/issues"
-  },
-  "homepage": "https://github.com/davidtheclark/react-aria-modal#readme",
   "dependencies": {
     "focus-trap-react": "8.5.1",
     "no-scroll": "^2.1.1"
